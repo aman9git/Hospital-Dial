@@ -1,0 +1,40 @@
+section{
+    padding: 2%;
+    background-color: rgb(255, 255, 255);
+    display: block;
+}
+
+.div-1{
+    background-image: url(interventional_cardiac.jpg);
+    text-align: center;
+    height: 300px;
+    width: 100%;
+}
+.div-1 h1{
+    padding: 80px;
+    color: white;
+}
+
+.div-2{
+    background-image: url(oncology.jpg);
+    text-align: center;
+    height: 300px;
+    width: auto;
+
+}
+.div-2 h1{
+    padding: 80px;
+    color: white;
+}
+
+.div-3{
+    background-image: url(Ent.jpg);
+    text-align: center;
+    height: 300px;
+    max-width: 300px;
+
+}
+.div-3 h1{
+    padding: 80px;
+    color: white;
+}

@@ -1,0 +1,73 @@
+
+body {
+    background-color: rgb(245, 234, 215);
+}
+.navbar{
+    background-color: #333;
+}
+
+.navbar-brand{
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+
+.dp{
+    padding-left: 1080px;
+    
+}
+.dropdown-item{
+    font-size: 20px;
+    background-color: rgb(255, 255, 255);
+    color: red;
+
+}
+.nav-link{
+    font-size: 25px;
+    color: white;  
+    overflow: hidden;
+    font-weight: bold;
+}
+
+
+.container .txt1{
+    margin: 10px;
+    font-size: 18px;
+}
+
+.container-fluid .txt a{
+    color: white;
+    font-size: 25px;
+    text-decoration: none;
+    font-weight: bold;
+}
+.container-fluid .txt a:hover{
+    color: yellow;
+}
+
+.sec-1{
+    background-color: rgb(168, 209, 209);
+}
+
+.sec-1,.sec-2{
+    padding: 4%;
+}
+.container img{
+    height: 200px;
+    width: 300px;
+}
+
+.container-2 img {
+    height: 200px;
+    width: 300px;
+}
+
+
+footer {
+    margin-top: 3rem;
+    text-align: center;
+    padding: 3px;
+    background-color: #333;
+    color: white;
+  }

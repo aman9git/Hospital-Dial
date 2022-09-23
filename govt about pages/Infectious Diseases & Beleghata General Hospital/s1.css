@@ -1,0 +1,117 @@
+.panel .col-sm-12 h1 {
+    background-color: aqua;
+    padding: 40px;
+    margin-right: 120px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+.col-md-9 {
+
+    margin-left: 150px;
+}
+
+.panel-body1 .col-sm-12 h1 {
+    background-color: aqua;
+    padding: 40px;
+    margin-right: 120px;
+    text-align: center;
+    color: rgb(0, 0, 0);
+}
+
+/* The dropdown container */
+.dropdown {
+    text-align: center;
+
+
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+    font-size: 26px;
+    border: none;
+    outline: none;
+    color: rgb(0, 0, 0);
+    padding: 14px 16px;
+    background-color: inherit;
+    font-family: inherit;
+    /* Important for vertical align on mobile phones */
+    margin: 0;
+    /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover,
+.dropdown:hover .dropbtn {
+    text-align: center;
+    background-color: rgb(3, 100, 45);
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+    text-align: center;
+    display: none;
+    position: absolute;
+    background-color: #024a28;
+    width: 25%;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    text-align: center;
+    color: rgb(255, 255, 255);
+
+
+    display: block;
+
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    text-align: center;
+    display: block;
+}
+
+.services-categories {
+    position: relative;
+    margin-bottom: 50px;
+    background-color: #fcfcfc;
+    border: 10px solid #ffffff;
+    box-shadow: 0 0px 20px rgb(0 0 0 / 10%);
+}
+
+ul {
+    box-sizing: border-box;
+}
+
+ul,
+li {
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+/* .services-categories li a {
+    font-size: 16px;
+    font-weight: 500;
+    color: #222222;
+    line-height: 30px;
+    padding: 10px 25px;
+    display: block;
+    padding-left: 38px;
+    overflow: hidden;
+    -webkit-transition: all 300ms ease;
+    -moz-transition: all 300ms ease;
+    -ms-transition: all 300ms ease;
+    -o-transition: all 300ms ease;
+    transition: all 300ms ease;} */
+
+

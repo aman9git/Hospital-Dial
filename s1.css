@@ -1,0 +1,58 @@
+ body{
+  background-color: black;
+ }
+ h1{
+  text-align: center;
+  color: white;
+  top: 5px;
+  text-decoration: underline;
+  font-family: sans-serif;
+  font-size: 40px;
+}
+
+.sec1 h2{
+  font-size: 35px;
+  color: white;
+}
+
+
+a {
+  font-size: 25px;
+}
+
+.box-container { 
+  position: absolute;
+  top: 140px;
+  margin-top: -60px;
+  margin: 6px 150px;
+  padding-top: 1px;
+  display: table;
+  box-sizing: border-box;
+}
+
+
+
+.row{
+    padding: 20px;
+    margin: 10px 0;
+}
+
+.col{
+    background-color: black;
+    display: table-cell;
+    padding: 10px;
+    width: 33.3333%;
+    text-align: center;
+    
+    vertical-align: middle;
+    border-right: 20px solid rgb(255, 255, 255);
+    border-left: 20px solid rgb(255, 255, 255);
+}
+
+
+.img-size img{
+    height: 220px;
+    width: 350px;
+    
+}
+

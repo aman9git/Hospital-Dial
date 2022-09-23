@@ -1,0 +1,38 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+
+.sec-1,.sec-2,.sec-3,.sec-4,.sec-5{
+    padding: 4%;
+}
+
+h1{ padding: 0;
+    margin: 0;
+    text-align: center;
+    color:rgb(0, 0, 0) ;
+    text-decoration: underline;
+}
+
+
+.container{
+    height: 350px;
+    padding: 1rem;
+    position: relative;
+    display: flex;
+   
+    background-color: #ffffff;
+    box-shadow: 0 10px 30px rgb(0, 0, 0);
+}
+
+.container h2,p{
+    text-align: center;
+}
+
+
+
+
+.container img{
+    height: 300px;
+    width: 400px;
+}

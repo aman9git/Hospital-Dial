@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(240, 237, 232);
+}
+.container{
+    
+    padding: 2%;
+    margin: 100px 250px;
+    background-color: rgb(255, 255, 255);
+    border-radius: .5rem;
+}
+.deptdoc-sec{
+    background-color: skyblue;
+    padding-left: -100px;
+    float: right;
+}

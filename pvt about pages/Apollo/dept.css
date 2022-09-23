@@ -1,0 +1,56 @@
+.box-container{
+     background-image: url(interventional_cardiac.jpg);
+     display: flex;
+     flex-wrap: wrap;
+     gap: 1.5rem;
+     color: white;
+     border: .1rem solid rgba(0, 0,0,.1);
+     border-radius:.5rem;
+     padding:2rem;
+}
+
+
+ .box-container .box{
+    text-align: center;
+    flex: 1 1 30rem;
+}
+
+ .box-container .box i{
+    font-size: 4rem;
+    color:rgb(255, 0, 0);
+}
+
+.page-container{
+    padding: 2%;
+    font-family: sans-serif;
+}
+.page-container h4{
+    text-align: center;
+    border: black;
+}
+
+/* cancer page css */
+.sec-2 .box-container{
+    background-image: url(cancer-bnr.webp);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1.5rem;
+    color: white;
+    border: .1rem solid rgba(0, 0,0,.1);
+    border-radius:.5rem;
+    padding:2rem;
+}
+.sec-2.box-container .box{
+    text-align: center;
+    flex: 1 1 30rem;
+}
+.sec-2 .box-container .box i{
+    font-size: 4rem;
+    color:rgb(241, 181, 181);
+}
+.sec-2.col.page-container{
+    padding: 9%;
+    font-family: Arial, Helvetica, sans-serif;
+    
+}
+

@@ -1,0 +1,63 @@
+<div class="hospital">
+        <h2 id="title">NARAYANA Multi-Superspeciality Hospital</h2>
+        <!-- <p>All of us in the TATA Group are the inheritors of a legacy of 
+            creating institutions that make a difference to the world we live in.
+         The doctrine of social responsibility as professed by our founder was 
+         and will continue to be the central theme of the Tata way of business.
+        </p> -->
+    </div>
+    <div class="doctorTeam">
+        <h2 id="top_head"> Our Best Doctors</h2>
+
+
+
+
+
+<div class="profile-show">
+        <h1 class="profile1">Profile</h1>
+    </div>
+    <div class="profile">
+        
+        <img src="RN TAGORE/Dr AMITABHA CHANDA.jpg" alt="">
+        <div >
+            <h2 class="name">Dr. Amitabha Chanda</h2>
+            <h5 class="specialist">Senior Consultant Neurosurgeon (Brain and Spine Surgeon,Neurosurgery</h5>
+            <h6 class="education">MD (Paediatrics), FNB (Paediatric Cardiology), Fellowship (Cardiology)</h6>
+        </div>
+    </div>
+    <div class="profile">
+        <img src="RN TAGORE/Dr. Abhijit Chatterjee_0_0.jpg" alt="">
+        <div >
+            <h2 class="name">Dr. Abhijit Chatterjee</h2>
+            <h5 class="specialist">Cardiology - Adult</h5>
+            <h6 class="education">MBBS, MD (General Medicine),
+                DM (Cardiology)</h6>
+        </div>
+    </div>
+    <div class="profile">
+        <img src="RN TAGORE/Dr. Amit Kundu_0_0.jpg" alt="">
+        <div >
+            <h2 class="name">Dr. Amit Kundu</h2>
+            <h5 class="specialist">Consultant, Anaesthesia</h5>
+            <h6 class="education">MBBS, D.A,
+                MD (Anaesthesia</h6>
+        </div>
+    </div>
+    <div class="profile">
+        <img src="RN TAGORE/Dr. Amitabha Chattopadhyay - Pediatric Cardiology.jpg" alt="">
+        <div >
+            <h2 class="name">Dr. Amitabha Chattopadhyay</h2>
+            <h5 class="specialist">Senior Consultant & Clinical Lead, Cardiology - Paediatric</h5>
+            <h6 class="education">MBBS, DNB (Paediatric),
+                DCH, Fellowship (Paediatric Cardiology)</h6>
+        </div>
+    </div>
+    <div class="profile">
+        <img src="RN TAGORE/Dr. Apratim Mukherjee_Kolkata_RTIICS (2)_1_0.jpg" alt="">
+        <div >
+            <h2 class="name">Dr. Apratim Mukherjee</h2>
+            <h5 class="specialist">Senior Consultant, Anaesthesia</h5>
+            <h6 class="education">MBBS, MD (Anaesthesia),
+                Post Doctoral Fellowship (Neuroanaesthesiology)</h6>
+        </div>
+    </div>

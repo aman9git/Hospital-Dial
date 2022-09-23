@@ -1,0 +1,35 @@
+
+body{
+    background-color: rgb(0, 0, 0);
+}
+
+.main{
+    text-align: center;
+    margin: 30px 50px;
+    padding: 10px 0px;
+    color: rgb(9, 196, 184);
+    border-bottom:8px solid rgb(51, 184, 6) ;
+    width: 90%;
+
+    
+}
+
+.location{
+
+    text-align: right;
+    border: 3px solid rgb(232, 7, 18);
+}
+
+.writen h1{
+    text-align: center;
+    margin: 20px 40px;
+    padding: 10px 0px;
+    color: rgb(15, 203, 184);
+
+}
+
+.writen h2{
+    margin: 20px 40px;
+    padding: 10px 0px;
+    color: rgb(164, 200, 4);
+}
